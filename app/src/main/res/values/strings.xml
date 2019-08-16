@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MonAppServiceWeb</string>
+    <string name="mon_app_service_web">Mon App Service Web</string>
+    <string name="limite">Limite</string>
+    <string name="moyenne">Moyenne</string>
+</resources>
